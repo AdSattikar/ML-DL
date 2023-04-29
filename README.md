@@ -2,7 +2,7 @@
 Repo for machine Learning and Deep Learning Projects
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This repository contains several machine learning classifiers implemented in Python and examples of how to evaluate their performance using various metrics.
 
