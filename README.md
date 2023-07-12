@@ -18,7 +18,7 @@ This repository contains several machine learning classifiers implemented in Pyt
 
 ## Breast Cancer Classifier
 
-In this project,a breast cancer classifier is implemented using the ID3 algorithm for decision tree induction. The classifier takes in a set of features and outputs whether the breast tumor is benign or malignant. The dataset used for training and testing the classifier is the [Breast Cancer Wisconsin (Diagnostic) dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)). 
+In this project,a breast cancer classifier is implemented using the ID3 algorithm for decision tree induction. The classifier takes in a set of features and outputs whether the breast tumor is benign or malignant. The dataset used for training and testing the classifier is the [Breast Cancer Scikit Learn dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html). 
 
 ## Handwritten Digits Classifier
 
